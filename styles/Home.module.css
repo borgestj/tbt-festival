@@ -119,4 +119,8 @@
     width: 100%;
     flex-direction: column;
   }
+
+  .banner {
+    width: 100%;
+  }
 }

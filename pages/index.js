@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <img src="https://tijucas-bike-team2.s3-sa-east-1.amazonaws.com/tbt-day.jpeg" />
+        <img className={styles.banner} src="https://tijucas-bike-team2.s3-sa-east-1.amazonaws.com/tbt-day.jpeg" />
       </main>
 
       <footer className={styles.footer}>
